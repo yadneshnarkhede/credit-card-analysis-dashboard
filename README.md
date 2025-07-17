@@ -53,11 +53,6 @@ Minimal but essential preprocessing steps were performed to shape the dataset be
 * 📌 **Cards and KPIs** for quick access to essential stats
 * 🔄 Responsive visualizations that update based on user selection
 
----
-
-## 📷 Preview
-
-![Dashboard Screenshot](Screenshot%202025-07-17%20212739.png)
 
 ---
 
