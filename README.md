@@ -2,6 +2,8 @@
 Here’s a clean, engaging, and **human-written style** `README.md` file for your **Credit Card Transaction Analysis Dashboard** project built in **Power BI**. You can copy and paste it into your GitHub repository:
 Drive Link :- https://drive.google.com/drive/u/1/folders/12tmU_zAiq2W03wq0pzHzUSpOie3iBYIg
 ---
+<img width="1419" height="755" alt="Screenshot 2025-07-17 212739" src="https://github.com/user-attachments/assets/cfd58b14-bd23-40c2-8b4a-353bb3b00f93" />
+
 
 # 💳 Credit Card Transaction Analysis Dashboard
 
